@@ -3,91 +3,7 @@
 ## 폴더 구조
 
 ```text
-.
-├── .git
-│   ├── COMMIT_EDITMSG
-│   ├── HEAD
-│   ├── config
-│   ├── description
-│   ├── hooks
-│   │   ├── applypatch-msg.sample
-│   │   ├── commit-msg.sample
-│   │   ├── fsmonitor-watchman.sample
-│   │   ├── post-update.sample
-│   │   ├── pre-applypatch.sample
-│   │   ├── pre-commit.sample
-│   │   ├── pre-merge-commit.sample
-│   │   ├── pre-push.sample
-│   │   ├── pre-rebase.sample
-│   │   ├── pre-receive.sample
-│   │   ├── prepare-commit-msg.sample
-│   │   ├── push-to-checkout.sample
-│   │   ├── sendemail-validate.sample
-│   │   └── update.sample
-│   ├── index
-│   ├── info
-│   │   └── exclude
-│   ├── logs
-│   │   ├── HEAD
-│   │   └── refs
-│   │       ├── heads
-│   │       └── remotes
-│   ├── objects
-│   │   ├── 12
-│   │   │   └── d53abb10e6b8628de85832d0adf85b5eec4d59
-│   │   ├── 18
-│   │   │   └── ef0210aa36cb57aac8448e3e2bbe27c2675e6c
-│   │   ├── 28
-│   │   │   └── 2c1e8503f4e06ad1c1b7c14cb0b150b7b1e76d
-│   │   ├── 29
-│   │   │   └── f688afe1feaa9e39d4344154d8adc224fa6cb2
-│   │   ├── 2b
-│   │   │   └── 3ef90ef87e5152b7b076b169ea036b02628ea3
-│   │   ├── 55
-│   │   │   └── 8aba3c3b26db729a5a3e24d3151e32a6ada590
-│   │   ├── 5d
-│   │   │   ├── 49c43a33ff6445a99e5ac2109b2ae944b62aa4
-│   │   │   └── 5c7c7519dea974e3aa4cbe1949f98c0b5b8ca7
-│   │   ├── 65
-│   │   │   └── 40f912734b5f60b7511b58bd68549c381e8c7e
-│   │   ├── 6a
-│   │   │   └── 366f232ded35890bca53b681d2b1445299edf5
-│   │   ├── 6b
-│   │   │   └── c35b08474c31d11e9cd09e73ba183d94ac9e41
-│   │   ├── 8c
-│   │   │   └── ebaf0865c4eb3f927481bf05e2b4b95b079bcf
-│   │   ├── 93
-│   │   │   └── ff8e28e55d03a1a8167e30b4e95ec0828d96f2
-│   │   ├── 96
-│   │   │   └── 55d1bf2ad2ae69141791b8b80351f97c2e9e9c
-│   │   ├── ba
-│   │   │   └── ae1dd1050855828018cb4dbe55c4d727b2b097
-│   │   ├── ce
-│   │   │   └── 1dec72353f2527096f4543eddb2d524401a111
-│   │   ├── e2
-│   │   │   └── f3bf77e4742bc2989f60f1a367cd2d8f9ccfc5
-│   │   ├── e6
-│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
-│   │   ├── e9
-│   │   │   └── ed2788ce4e73e488a591dadc27fc2aa7174176
-│   │   ├── ea
-│   │   │   └── 711222498f4e81d9b56b1f154e146129e0751d
-│   │   ├── eb
-│   │   │   └── 98442c03e7ceedb5ac3f5c5c575f4ca10913da
-│   │   ├── ef
-│   │   │   └── fe8809c3bfd468d735ff0d638f4fabee9fe48c
-│   │   ├── f9
-│   │   │   └── 3e3a1a1525fb5b91020da86e44810c87a2d7bc
-│   │   ├── fb
-│   │   │   └── 0d2a4f201aa21d2b580e70be20af492193b679
-│   │   ├── info
-│   │   └── pack
-│   └── refs
-│       ├── heads
-│       │   └── main
-│       ├── remotes
-│       │   └── origin
-│       └── tags
+AIFFEL_QUEST_ENG1
 ├── 01_Python
 │   └── sub1
 │       ├── Py01
@@ -152,12 +68,8 @@
 │       │   └── sub2
 │       ├── DP07
 │       │   └── sub2
-│       ├── DP08
-│       │   └── sub2
-│       ├── Final_Code
-│       │   └── sub3
-│       └── contents
-│           └── sub3
+│       └── DP08
+│           └── sub2
 ├── 07_MLOps
 │   └── sub1
 │       ├── MLOps01
@@ -186,14 +98,7 @@
 │       │   └── sub2
 │       └── MQ05
 │           └── sub2
-├── README.md
-├── TREE.txt
-├── _backup_before_move
-│   ├── 01_python
-│   │   └── sub1
-│   └── py01
-│       └── sub2mkdir
-└── –p
+└── README.md
 
-143 directories, 48 files
+95 directories, 1 file
 ```
