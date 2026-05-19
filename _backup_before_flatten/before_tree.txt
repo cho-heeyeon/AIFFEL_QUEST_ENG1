@@ -1,0 +1,107 @@
+.
+├── 01_Python
+│   └── sub1
+│       ├── Py01
+│       │   └── sub2
+│       ├── Py02
+│       │   └── sub2
+│       ├── Py03
+│       │   └── sub2
+│       ├── Py04
+│       │   └── sub2
+│       └── Py05
+│           └── sub2
+├── 02_Data_Analysis
+│   └── sub1
+├── 02_Data_Analysis1
+│   └── sub1
+│       ├── DA01
+│       │   └── sub2
+│       └── DA02
+│           └── sub2
+├── 03_Computer_Vision
+│   └── sub1
+│       ├── CV01
+│       │   └── sub2
+│       └── CV02
+│           └── sub2
+├── 04_NLP
+│   └── sub1
+│       ├── NLP01
+│       │   └── sub2
+│       └── NLP02
+│           └── sub2
+├── 05_LLM
+│   └── sub1
+│       ├── LLM01
+│       │   └── sub2
+│       ├── LLM02
+│       │   └── sub2
+│       ├── LLM03
+│       │   └── sub2
+│       ├── LLM04
+│       │   └── sub2
+│       ├── LLM05
+│       │   └── sub2
+│       ├── LLM06
+│       │   └── sub2
+│       └── LLM07
+│           └── sub2
+├── 06_Deployment
+│   └── sub1
+│       ├── DP01
+│       │   └── sub2
+│       ├── DP02
+│       │   └── sub2
+│       ├── DP03
+│       │   └── sub2
+│       ├── DP04
+│       │   └── sub2
+│       ├── DP05
+│       │   └── sub2
+│       ├── DP06
+│       │   └── sub2
+│       ├── DP07
+│       │   └── sub2
+│       └── DP08
+│           └── sub2
+├── 07_MLOps
+│   └── sub1
+│       ├── MLOps01
+│       │   └── sub2
+│       ├── MLOps02
+│       │   └── sub2
+│       ├── MLOps03
+│       │   └── sub2
+│       ├── MLOps04
+│       │   └── sub2
+│       ├── MLOps05
+│       │   └── sub2
+│       ├── MLOps06
+│       │   └── sub2
+│       └── MLOps07
+│           └── sub2
+├── Main_Quest
+│   └── sub1
+│       ├── MQ01
+│       │   └── sub2
+│       ├── MQ02
+│       │   └── sub2
+│       ├── MQ03
+│       │   └── sub2
+│       ├── MQ04
+│       │   └── sub2
+│       └── MQ05
+│           └── sub2
+├── README.md
+├── _backup_before_flatten
+│   └── before_tree.txt
+├── _backup_before_flatten_20260519_222621
+│   └── before_tree.txt
+└── _backup_before_move
+    ├── 01_python
+    │   └── sub1
+    └── py01
+        └── sub2mkdir
+
+102 directories, 3 files
