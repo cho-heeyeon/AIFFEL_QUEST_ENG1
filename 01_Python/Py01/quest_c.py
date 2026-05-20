@@ -81,10 +81,10 @@ def score_analysis(name):
 
 
 if __name__ == "__main__":
-    print("Q1-1 회문 판독기")
+    print("[문제 1] ------ Q1-1 회문 판독기")
     print("[문제작성]")
     print("문자열을 입력으로 받아 회문이면 True, 아니면 False를 반환하는 함수를 만드세요.")
-    print("[답작성]")
+    print("[정답]")
     print(inspect.getsource(is_palindrome).rstrip())
     print("[실행결과]")
     target1 = "아만남다다남만아"
@@ -92,10 +92,10 @@ if __name__ == "__main__":
     print(is_palindrome(target1))
     print(is_palindrome(target2))
 
-    print("\nQ1-2 회문 분류기")
+    print("\n[문제 2] ------ Q1-2 회문 분류기")
     print("[문제작성]")
     print("단어 리스트를 입력으로 받아 회문/비회문으로 분류한 딕셔너리와 회문 개수, 회문 비율을 반환하세요.")
-    print("[답작성]")
+    print("[정답]")
     print(inspect.getsource(palindrome_classifier).rstrip())
     print("[실행결과]")
     targets = [
@@ -112,19 +112,19 @@ if __name__ == "__main__":
     ]
     print(palindrome_classifier(targets))
 
-    print("\nQ2-1 성적 데이터화")
+    print("\n[문제 3] ------ Q2-1 성적 데이터화")
     print("[문제작성]")
     print("시험 성적 데이터를 하나의 변수에 딕셔너리 형태로 저장하세요.")
-    print("[답작성]")
+    print("[정답]")
     print("scores =")
     print(scores)
     print("[실행결과]")
     print(scores)
 
-    print("\nQ2-2 성적 분석기")
+    print("\n[문제 4] ------ Q2-2 성적 분석기")
     print("[문제작성]")
     print("학생 이름을 입력받아 과목별 점수, 학급 평균 대비 차이, 전과목 평균을 분석해 출력하는 함수를 만드세요.")
-    print("[답작성]")
+    print("[정답]")
     print(inspect.getsource(score_analysis).rstrip())
     print("[실행결과]")
     print(score_analysis("설진민"))
