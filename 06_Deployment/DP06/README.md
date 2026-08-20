@@ -121,9 +121,9 @@ FastAPI 서버 실행 후 Swagger UI에서 API 엔드포인트가 정상적으�
 Swagger UI에는 다음 API가 표시되었습니다.
 
 - `GET /health` : 서버 상태 확인
-- `POST /predict/image` : 이미지 입력 및 모델 추론
+- `POST /predict/image` : API가 등록되어 있음을 확인하였다
 
-이를 통해 FastAPI 서버에서 상태 확인 API와 이미지 추론 API가 정상적으로 노출되고 있음을 확인하였습니다.
+실제 API Key 인증 및 이미지 추론 동작은 이후 실행 테스트를 통해 검증하였다.
 
 ![6.8 Swagger UI에서 테스트](./images/6.8%20Swagger%20UI에서%20테스트.png)
 
