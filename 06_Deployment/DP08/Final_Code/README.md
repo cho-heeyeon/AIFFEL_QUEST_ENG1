@@ -572,7 +572,7 @@ FastAPI 서버에서 요청을 차단하고 HTTP `401 Unauthorized`를 반환하
 
 이를 통해 잘못된 인증정보를 사용한 API 접근이 차단되는 것을 확인하였다.
 
-![잘못된 API Key](./images/설비이상 예측 프로젝트 잘못된 API Key 401.png)
+![잘못된 API Key](./images/설비이상%20예측%20프로젝트%20잘못된%20API%20Key%20401.png)
 
 ---
 
@@ -603,7 +603,7 @@ HTTP `200 OK`가 반환되었으며 설비 상태가 `정상`으로 예측되었
 
 이를 통해 **API Key 인증 → FastAPI → 모델 추론 → 결과 반환** 과정이 정상적으로 동작하는 것을 확인하였다.
 
-![올바른 API Key](./images/설비이상 예측 프로젝트 올바른 API Key 정상예측 200.png)
+![올바른 API Key 정상예측](./images/설비이상%20예측%20프로젝트%20올바른%20API%20Key%20정상예측%20200.png)
 
 ---
 
@@ -625,7 +625,7 @@ FastAPI/Pydantic에서 해당 요청을 모델에 전달하지 않고 HTTP `422 
 
 이를 통해 잘못된 입력값이 모델 추론 단계로 전달되기 전에 차단되는 것을 확인하였다.
 
-![입력검증 오류](./images/설비이상 예측 프로젝트 입력검증 오류 422.png)
+![입력검증 오류](./images/설비이상%20예측%20프로젝트%20입력검증%20오류%20422.png)
 
 ---
 
@@ -648,7 +648,7 @@ Streamlit UI에 다음 값을 입력하였다.
 이 결과를 통해 Streamlit에서 입력한 데이터가 FastAPI의 `/predict` API로 전달되고,
 모델의 예측 결과가 다시 Streamlit 화면에 표시되는 것을 확인하였다.
 
-![Streamlit 정상](./images/설비이상 예측 프로젝트 Streamlit 정상 예측(OK).png)
+![Streamlit 정상 예측](./images/설비이상%20예측%20프로젝트%20Streamlit%20정상%20예측%28OK%29.png)
 
 ---
 
@@ -670,8 +670,7 @@ Streamlit UI에 다음 값을 입력하였다.
 
 이를 통해 동일한 Streamlit UI에서 입력값에 따라 `정상 / 이상` 분류 결과가 표시되는 것을 확인하였다.
 
-![Streamlit 이상](./images/설비이상 예측 프로젝트 Streamlit 이상 예측(NG).png)
-
+![Streamlit 이상 예측](./images/설비이상%20예측%20프로젝트%20Streamlit%20이상%20예측%28NG%29.png)
 ---
 
 # 8. Day 8 최종 체크포인트
