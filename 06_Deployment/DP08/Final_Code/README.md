@@ -554,7 +554,7 @@ FastAPI 서버에서 요청을 차단하고 HTTP `401 Unauthorized`를 반환하
 
 이를 통해 API Key가 없는 사용자의 모델 추론 요청이 차단되는 것을 확인하였다.
 
-![API Key 미인증](./images/설비이상 예측 프로젝트 API Key 미인증 401.png)
+![API Key 미인증](./images/설비이상%20예측%20프로젝트%20API%20Key%20미인증%20401.png)
 
 ---
 
